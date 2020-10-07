@@ -1,0 +1,13 @@
+.footer__cont {
+    padding: 0;
+}
+
+@media screen and (max-width: 767px) {
+    .footer__cont {
+        margin: 0 0 32px;
+    }
+
+    .footer__cont:last-of-type {
+        margin: 0;
+    }
+}
